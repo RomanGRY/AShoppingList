@@ -1,7 +1,5 @@
 package com.ashoppink.list.presentation
 
-import androidx.lifecycle.LiveData
-import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.ashoppink.list.data.ShopListRepoImpl
 import com.ashoppink.list.domain.DeleteShopItemCase
